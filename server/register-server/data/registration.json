@@ -1,0 +1,97 @@
+[
+  {
+    "id": "a1b94640-e9dd-4385-a57c-0f7f35577f95",
+    "username": "hmuster",
+    "email": "sebastian@hamburgers.ch",
+    "password": "Hesdllsdo*3",
+    "phone": "0791571088"
+  },
+  {
+    "id": "ee102ac7-e1c7-44d2-861d-1588e995a987",
+    "username": "hmuster",
+    "email": "sebastian@hamburgs.ch",
+    "phone": "0791571440",
+    "password": "Hello1234",
+    "password2": "Hello1234"
+  },
+  {
+    "id": "1c5bb847-8393-4d01-a734-ae8e18e46296",
+    "username": "hmuster",
+    "email": "sebastian@hamburgs.ch",
+    "phone": "0791571440",
+    "password": "Hello1234",
+    "password2": "Hello123"
+  },
+  {
+    "id": "ea9fed6b-5a50-448e-b811-bb490bf7d39d",
+    "username": "hmuster",
+    "email": "sebastian@hamburgs.ch",
+    "phone": "0791571440",
+    "password": "Hello1234",
+    "password2": "Hello123"
+  },
+  {
+    "id": "b4951403-b073-4bc7-b734-1aa416868ba1",
+    "username": "hmuster",
+    "email": "sebastian@hamburgs.ch",
+    "phone": "0791571440",
+    "password": "Hello1234",
+    "password2": "Hello123"
+  },
+  {
+    "id": "ca07c097-9c30-434f-aa6d-1fe44a1db34e",
+    "username": "hmuster",
+    "email": "sebastian@hamburgs.ch",
+    "phone": "0791571440",
+    "password": "Hello1234",
+    "password2": "Hello1243"
+  },
+  {
+    "id": "b139e56f-9319-445c-b3b8-96561f015627",
+    "username": "Sebii.zh",
+    "email": "sebastian@hamburgers.ch",
+    "phone": "0791571088",
+    "password": "Hello123",
+    "password2": "Hello123"
+  },
+  {
+    "id": "fc087704-3318-40bf-8b21-a4fc108a1ccc",
+    "username": "Sebii.zh",
+    "email": "sebastian@hamburgers.ch",
+    "phone": "0791571088",
+    "password": "Hello123",
+    "password2": "Hello123"
+  },
+  {
+    "id": "b2e6d7d8-36b6-45c6-a332-7500f847494b",
+    "username": "Sebii.zh",
+    "email": "sebastian@hamburgers.ch",
+    "phone": "0791571088",
+    "password": "Hello123",
+    "password2": "Hello123"
+  },
+  {
+    "id": "fe4fb040-d651-40e9-8e13-db7de9ab5da4",
+    "username": "Sebii.zh",
+    "email": "sebastian@hamburgers.ch",
+    "phone": "0791571088",
+    "password": "Hello123",
+    "password2": "Hello123"
+  },
+  {
+    "id": "6906a73f-de73-44fa-88f8-777b16dca398",
+    "username": "Sebii.zh",
+    "email": "sebastian@hamburgers.ch",
+    "phone": "0791571088",
+    "password": "Hello123",
+    "password2": "Hello123"
+  },
+  {
+    "id": "56d33da7-5c37-4cce-a734-9e573aeef371",
+    "username": "Sebii.zh",
+    "email": "sebastian@hamburgers.ch",
+    "phone": "0791571088",
+    "password": "Hello123",
+    "password2": "Hello123"
+  }
+]
